@@ -10,8 +10,15 @@
     "@mui/material": "^5.11.0",
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.9",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "material-components-web": "^14.0.0",
     "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-bootstrap-buttons": "^1.0.0",
+    "react-bootstrap-icons": "^1.10.2",
     "react-dom": "18.2.0",
+    "sass": "^1.57.0",
     "typescript": "4.9.4"
   },
   "scripts": {
@@ -21,6 +28,20 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "@types/babel__core": "^7.1.20",
+    "@types/bootstrap": "^5.2.6",
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
